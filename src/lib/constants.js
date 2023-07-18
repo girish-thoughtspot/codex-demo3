@@ -1,6 +1,6 @@
 // export const THOUGHTSPOT_HOST = process?.env?.TS_CLUSTER || 'https://nebula-tse-codex2.thoughtspotdev.cloud'
 // export const TS_USERNAME = process?.env?.TS_USERNAME || 'tsadmin'
 // export const TS_PASSWORD = process?.env?.TS_PASSWORD || '123Cloud!'
-export const THOUGHTSPOT_HOST = 'https://nebula-tse-codex2.thoughtspotdev.cloud'
+export const THOUGHTSPOT_HOST = 'https://172.19.152.24:8443/'
 export const TS_USERNAME = 'tsadmin'
-export const TS_PASSWORD = '123Cloud!'
+export const TS_PASSWORD = 'admin'
